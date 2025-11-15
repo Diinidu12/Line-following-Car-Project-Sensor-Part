@@ -1,6 +1,6 @@
 # Car Project – Color Detection Sensor
 
-This repository contains a project I developed during my second year, focused on building a **color detection sensor** for a  our line-following car. The project was created as part of a **line-following contest** which orgaized for our course.
+This repository contains a project we developed during my second year, focused on building a color detection sensor for a  our line-following car. The project was created as part of a line-following contest which orgaized for our course.
 
 ## Project Overview
 The color detection sensor is built using:
@@ -14,7 +14,7 @@ In this repo only include only the color detection sensor codes noy fully functi
 ## Features
 - Detects and differentiates track colors using an RGB LED + LDR combination  
 - Enables the car to follow a line based on color detection  
-- Triggers a **buzzer** when specific colors are detected  
+- Triggers a buzzer when specific colors are detected  
 - Stops the car when a designated color is encountered  
 
 ## Contest Implementation
